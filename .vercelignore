@@ -1,0 +1,8 @@
+.git
+build
+backend/build
+frontend/node_modules
+frontend/.next
+frontend/coverage
+frontend/.env.local
+*.log

@@ -1,0 +1,21 @@
+# CMake outputs
+build/
+backend/build/
+
+# Next.js and Node outputs
+frontend/node_modules/
+frontend/.next/
+frontend/coverage/
+frontend/.env.local
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.vercel/
+/[Ww][Oo][Rr][Kk].[Mm][Dd]
+/tmp
+/output
+/output/pdf/CodePlag_Project_Documentation.pdf
